@@ -1,0 +1,24 @@
+.cabecario-moda{
+    background-color: #BB86FC;
+    text-align: center;
+}
+.cabecario-casa{
+    background-color: #00C4B4;
+    text-align: center;
+}
+.dados{
+    background-color: #424250;
+}
+.cor-fonte{
+    color: #ffffff; 
+}
+.espacamento-moda{
+    width: 350px;
+    height: 120px;
+    text-align: center;
+}
+.espacamento-casa{
+    width: 250px;
+    height: 120px;
+    text-align:center ;
+}
